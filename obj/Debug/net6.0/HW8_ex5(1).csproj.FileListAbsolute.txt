@@ -1,0 +1,15 @@
+D:\GB\C#\HW\HW8\HW8_ex5(1)\bin\Debug\net6.0\HW8_ex5(1).exe
+D:\GB\C#\HW\HW8\HW8_ex5(1)\bin\Debug\net6.0\HW8_ex5(1).deps.json
+D:\GB\C#\HW\HW8\HW8_ex5(1)\bin\Debug\net6.0\HW8_ex5(1).runtimeconfig.json
+D:\GB\C#\HW\HW8\HW8_ex5(1)\bin\Debug\net6.0\HW8_ex5(1).dll
+D:\GB\C#\HW\HW8\HW8_ex5(1)\bin\Debug\net6.0\HW8_ex5(1).pdb
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).csproj.AssemblyReference.cache
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).AssemblyInfoInputs.cache
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).AssemblyInfo.cs
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).csproj.CoreCompileInputs.cache
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).dll
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\refint\HW8_ex5(1).dll
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).pdb
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\HW8_ex5(1).genruntimeconfig.cache
+D:\GB\C#\HW\HW8\HW8_ex5(1)\obj\Debug\net6.0\ref\HW8_ex5(1).dll
